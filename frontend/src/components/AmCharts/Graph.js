@@ -57,9 +57,6 @@ class Graph extends Component {
 	"chartCursor": {
 		"enabled": true
 	},
-	"chartScrollbar": {
-		"enabled": true
-	},
 	"trendLines": [],
 	"graphs": [
 		{
